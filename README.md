@@ -9,6 +9,7 @@ The Pewlett Hackard company asked for an analysis of employees nearing retiremen
   1. There are a total of 72,458 retiring employees out of a total of 240,124 current employees. Just over 30% of employees are nearing retirement.
 
   2. The retiring employees grouped by their title. This table shows "Senior Engineer" and "Senior Staff" to have greater than fifty percent of retirements.
+  
   ![Retiring Employees per Title](/Resources/retiring_employees_per_title.png)
    [INSERT IMAGE - retiring_employees_per_title]
 
